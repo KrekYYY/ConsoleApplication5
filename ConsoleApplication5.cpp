@@ -11,4 +11,9 @@ int main()
 		{"Lenovo", 16, 30'000},
 		{"Acer", 8, 20'000}
 	};
+	cout << "Computer with RAM > 10\n";
+	for (int i = 0; i < 5; i++)
+	{
+
+	}
 }
